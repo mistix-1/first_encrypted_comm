@@ -5,7 +5,7 @@ import requests
 
 # --- Configuration ---
 # IMPORTANT: This must match the address of your running chat_server.py
-SERVER_URL = "http://127.0.0.1:5000"
+SERVER_URL = "http://adress of device running server:5000"
 
 # File names
 ENCRYPTION_FILE = "encryption_code.py"
